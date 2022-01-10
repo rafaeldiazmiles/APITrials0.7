@@ -1,0 +1,5 @@
+{
+	"Id": "string,omitempty",
+	"Name":   "string,omitempty",
+	"Author": "string,omitempty"
+}
